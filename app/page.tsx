@@ -153,7 +153,7 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-12">
               <h2 className="text-3xl font-bold text-gray-900 mb-4">Shop by Category</h2>
-              <p className="text-lg text-gray-600">Find exactly what you're looking for</p>
+              <p className="text-lg text-gray-600">Find exactly what you&rsquo;re looking for</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
               {categories.map((category) => (
@@ -227,7 +227,7 @@ export default function HomePage() {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
               <p className="text-lg text-gray-600 mb-6">
-                Founded with a passion for sustainable fashion, we believe that style shouldn't come at the expense of our planet. Every piece in our collection is carefully crafted using eco-friendly materials and ethical manufacturing processes.
+                Founded with a passion for sustainable fashion, we believe that style shouldn&rsquo;t come at the expense of our planet. Every piece in our collection is carefully crafted using eco-friendly materials and ethical manufacturing processes.
               </p>
               <p className="text-lg text-gray-600 mb-8">
                 From timeless classics to contemporary trends, we design clothing that empowers you to express your unique style while making a positive impact on the world.
